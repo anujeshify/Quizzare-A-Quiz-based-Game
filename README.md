@@ -44,7 +44,7 @@ Know more about the project.
 * **Vanshika Gupta**
 * **Atish Ranjan Mahali**
 
-See also the list of [contributors](https://github.com/anujeshify/Entertainment-Rating-Database-ERDb/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/anujeshify/Quizzare-A-Quiz-based-Game/graphs/contributors) who participated in this project.
 
 ## Acknowledgments
 
