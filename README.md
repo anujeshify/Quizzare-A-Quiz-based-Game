@@ -41,7 +41,7 @@ Know more about the project.
 ## Authors
 
 * **Anujesh Bansal** - *Initial work* - [anujeshify](https://github.com/anujeshify)
-* **Vanshika Gupta**
+* **Vanshika Gupta** - [VanshikaaGuptaa](https://github.com/VanshikaaGuptaa)
 * **Atish Ranjan Mahali**
 
 See also the list of [contributors](https://github.com/anujeshify/Quizzare-A-Quiz-based-Game/graphs/contributors) who participated in this project.
