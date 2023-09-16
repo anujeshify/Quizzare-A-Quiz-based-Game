@@ -42,7 +42,7 @@ Know more about the project.
 
 * **Anujesh Bansal** - *Initial work* - [anujeshify](https://github.com/anujeshify)
 * **Vanshika Gupta** - [VanshikaaGuptaa](https://github.com/VanshikaaGuptaa)
-* **Atish Ranjan Mahali**
+* **Atish Ranjan Mahali** [atishmahali](https://github.com/atishmahali)
 
 See also the list of [contributors](https://github.com/anujeshify/Quizzare-A-Quiz-based-Game/graphs/contributors) who participated in this project.
 
